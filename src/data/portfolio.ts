@@ -75,19 +75,12 @@ export const personal = {
 	fullName: 'Efren Fernandez',
 	title: 'Full Stack Developer',
 	greeting: 'Hi, I am',
-	repoUrl: 'https://github.com/fire-butterfly08/latest-portfolio',
-	repoStarLabel: '⭐ Star this repo',
+	repoUrl: '',
+	repoStarLabel: 'Amazing Portfolio',
 	showRepoStar: true,
 };
 
 export const socialLinks: SocialLink[] = [
-	{
-		label: 'GitHub',
-		href: 'https://github.com/fire-butterfly08',
-		icon: FaGithub,
-		iconColor: 'rgba(255, 255, 255, 0.9)',
-		glowColor: 'rgba(255, 255, 255, 0.4)',
-	},
 	{
 		label: 'Resume',
 		href: 'https://drive.google.com/file/d/1VXrOAVlgWG62FsJItNX0_r5Y4UuQ36-D/view?usp=sharing',
