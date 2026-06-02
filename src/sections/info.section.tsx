@@ -19,10 +19,10 @@ export const InfoSection = () => {
 					<span></span>
 				</a>
 			)}
-			<div className='hero-personal' style={{display:'flex'}}>
+			{/* <div className='hero-personal' style={{display:'flex'}}>
 				<div className='hero-img'>
 					<img src={personal.avatar} alt={personal.name} />
-				</div>
+				</div> */}
 				<div>
 					<p>{personal.greeting}</p>
 					<TextHover
@@ -31,7 +31,7 @@ export const InfoSection = () => {
 					/>
 					<p>{personal.title}</p>
 				</div>
-			</div>
+			{/* </div> */}
 			<div className='blur'></div>
 			<div className='bottom-bar'>
 				{socialLinks.map((link) => (
