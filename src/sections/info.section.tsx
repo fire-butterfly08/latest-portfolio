@@ -1,10 +1,9 @@
 import { GlowLink } from '../components/glow-box-link';
 import { HeroBg } from '../components/hero-bg';
 import { TextHover } from '../components/text-hover.component';
-import { navButtons, personal, socialLinks } from '../data/portfolio';
+import { personal, socialLinks } from '../data/portfolio';
 
 export const InfoSection = () => {
-	const [aboutNav, techNav] = navButtons;
 
 	return (
 		<div className='hero-section'>
