@@ -90,7 +90,7 @@ export const socialLinks: SocialLink[] = [
 	},
 	{
 		label: 'Resume',
-		href: 'https://drive.google.com/file/d/13A9Aoj1eNwAOjELiIUTyDPEoh4oMiJZK/view?usp=sharing',
+		href: 'https://drive.google.com/file/d/1VXrOAVlgWG62FsJItNX0_r5Y4UuQ36-D/view?usp=sharing',
 		icon: FaFilePdf,
 		iconColor: 'rgb(0, 160, 220)',
 		glowColor: 'rgba(0, 160, 220, 0.6)',
