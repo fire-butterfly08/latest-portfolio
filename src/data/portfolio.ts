@@ -116,7 +116,7 @@ export const about = {
 				{
 					role: 'Full Stack Developer',
 					org: 'as part of my job',
-					period: '2018 - 2021',
+					period: 'Feb, 2021 – May, 2023',
 					bullets: [
 						'Accenture Philippines – Mandaluyong, Metro Manila — Senior Full-Stack Developer(contract)',
 						'Independent Full-Stack Developer (Self - Employed) – Remote — Full Stack Developer',
@@ -130,7 +130,7 @@ export const about = {
 				{
 					role: 'Senior Full Stack Developer',
 					org: 'With My Team',
-					period: '2021 - present',
+					period: 'June 2023 – Feb 2026',
 					bullets: [
 						'SaaS Business Dashboard Platform | React, Node.js, PostgreSQL, Docker, CI/CD',
 						'E‐Commerce Admin Dashboard | React, Redux, Node.js, PostgreSQL, Tailwind CSS, AWS.',
@@ -144,9 +144,9 @@ export const about = {
 			heading: 'Education',
 			items: [
 				{
-					role: 'Master of Science in Computer Science (BSCS)',
+					role: 'Bachelor`s Degree in Computer Science',
 					org: 'Mapúa University',
-					period: '2024 Graduated',
+					period: '2016 - 2020',
 					bullets: [],
 				},
 			],
