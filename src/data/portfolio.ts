@@ -83,7 +83,7 @@ export const personal = {
 export const socialLinks: SocialLink[] = [
 	{
 		label: 'Resume',
-		href: 'https://drive.google.com/file/d/1VXrOAVlgWG62FsJItNX0_r5Y4UuQ36-D/view?usp=sharing',
+		href: 'https://drive.google.com/file/d/1kNBi04Sp_FOw1zKK8iwnYZi6EUJ8wbp8/view?usp=sharing',
 		icon: FaFilePdf,
 		iconColor: 'rgb(0, 160, 220)',
 		glowColor: 'rgba(0, 160, 220, 0.6)',
